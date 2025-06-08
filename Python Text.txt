@@ -1,0 +1,24 @@
+Click on the respective Course
+Click on Assessment
+Click on the respective project
+Click on Submit
+Based on the project you select, you might have to upload the following:
+Writeup: A synopsis of the project
+Screenshots: screenshots of the output you get after executing the codes in the practice lab.
+Source Code: Screenshots of the source code used in the project
+Click on Submit Project.
+
+
+reach out for extension ?
+
+
+https://lms.simplilearn.com/nps/session/67e2744d1299550865d20879/1749371400000/91596986592/zoom
+https://lms.simplilearn.com/nps/session/67e2744d1299550865d20879/1749371400000/91596986592/zoom
+
+https://github.com/lakshmisay/Data-Scientist-Interview/tree/main
+https://github.com/lakshmisay/Data-Scientist-Interview/tree/main
+
+SLACK CHANNEL - MUST JOIN - can also join from lms - will be covered in upcoming session - can also raise ticket.. 
+https://app.slack.com/client/T05Q1H1S7HQ/C08UQKWRDGV
+
+
